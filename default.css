@@ -1,0 +1,35 @@
+
+body {
+	margin:40px;
+	background-color:ivory;
+}
+
+th, td {
+	padding:5px;
+	border:1px solid black;
+	vertical-align:middle;
+}
+
+.even {
+	background-color: lightblue;
+}
+.odd {
+	background-color: lightgreen;
+}
+
+#footer {
+	margin-top:60px;
+	font-size:12px;
+}
+
+form th, form td {
+	border:0;
+}
+
+.error {
+	border-color: red;
+}
+
+.notice {
+	background-color: lightblue;
+}
